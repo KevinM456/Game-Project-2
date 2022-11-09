@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Abyss",
   "resources": [
+    {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

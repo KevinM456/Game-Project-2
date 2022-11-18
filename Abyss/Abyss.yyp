@@ -10,7 +10,11 @@
     {"id":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},"order":3,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":3,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":5,},
+    {"id":{"name":"spr_retry","path":"sprites/spr_retry/spr_retry.yy",},"order":6,},
+    {"id":{"name":"obj_retry","path":"objects/obj_retry/obj_retry.yy",},"order":5,},
+    {"id":{"name":"spr_over","path":"sprites/spr_over/spr_over.yy",},"order":7,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":0,},
+    {"id":{"name":"endRoom","path":"rooms/endRoom/endRoom.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
     {"id":{"name":"spr_tempBackground","path":"sprites/spr_tempBackground/spr_tempBackground.yy",},"order":4,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":1,},
@@ -29,6 +33,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"endRoom","path":"rooms/endRoom/endRoom.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
@@ -54,6 +59,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.9.0.49",
   },
 }

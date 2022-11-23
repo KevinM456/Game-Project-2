@@ -1,4 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-vspeed = 0
+if (place_meeting(x,y,obj_block))
+instance_destroy();

@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemy",
-  "spriteId": null,
+  "name": "obj_p2",
+  "spriteId": {
+    "name": "spr_p2",
+    "path": "sprites/spr_p2/spr_p2.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

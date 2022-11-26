@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-is_opening = true;
+speed = 4;
+
+hp = 5;

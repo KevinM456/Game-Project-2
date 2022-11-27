@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_p3",
+  "name": "obj_power2",
   "spriteId": {
-    "name": "spr_p3",
-    "path": "sprites/spr_p3/spr_p3.yy",
+    "name": "spr_p2",
+    "path": "sprites/spr_p2/spr_p2.yy",
   },
   "solid": false,
   "visible": true,

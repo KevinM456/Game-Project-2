@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_p1",
+  "name": "obj_power1",
   "spriteId": {
     "name": "spr_p1",
     "path": "sprites/spr_p1/spr_p1.yy",

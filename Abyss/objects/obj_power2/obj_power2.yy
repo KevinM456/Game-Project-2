@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_power2",
   "spriteId": {
-    "name": "spr_p2",
-    "path": "sprites/spr_p2/spr_p2.yy",
+    "name": "spr_gem2",
+    "path": "sprites/spr_gem2/spr_gem2.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

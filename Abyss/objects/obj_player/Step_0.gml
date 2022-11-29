@@ -29,6 +29,6 @@ if vspeed > 12 {
 	vspeed = 12
 }
 
-if y > room_height + 200{
+if (lives <= 0){
 	room_goto(endRoom)
 }

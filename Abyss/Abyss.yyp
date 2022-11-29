@@ -18,6 +18,7 @@
     {"id":{"name":"obj_chest","path":"objects/obj_chest/obj_chest.yy",},"order":9,},
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},"order":13,},
     {"id":{"name":"obj_power2","path":"objects/obj_power2/obj_power2.yy",},"order":11,},
+    {"id":{"name":"spr_boundary","path":"sprites/spr_boundary/spr_boundary.yy",},"order":22,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":3,},
     {"id":{"name":"spr_sidePlayer","path":"sprites/spr_sidePlayer/spr_sidePlayer.yy",},"order":17,},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":5,},
@@ -42,6 +43,7 @@
     {"id":{"name":"spr_next","path":"sprites/spr_next/spr_next.yy",},"order":21,},
     {"id":{"name":"obj_wand","path":"objects/obj_wand/obj_wand.yy",},"order":6,},
     {"id":{"name":"spr_gem1","path":"sprites/spr_gem1/spr_gem1.yy",},"order":12,},
+    {"id":{"name":"obj_boundary","path":"objects/obj_boundary/obj_boundary.yy",},"order":16,},
     {"id":{"name":"obj_enemycrow","path":"objects/obj_enemycrow/obj_enemycrow.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
@@ -86,6 +88,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.9.0.49",
   },
 }

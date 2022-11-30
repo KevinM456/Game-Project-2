@@ -74,6 +74,7 @@
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,

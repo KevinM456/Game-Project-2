@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if(place_meeting(x,y,obj_player)) && (is_triggered = false) {
-	if(keyboard_check_pressed(vk_space)) {
+	if(mouse_check_button_pressed(mb_right)) {
 		is_triggered = true;
 		if(loot = 1) && is_opened = false { instance_create_depth(x,y,-1000,obj_power1) is_opened = true; }
 		if(loot = 2) && is_opened = false { instance_create_depth(x,y,-1000,obj_power2) is_opened = true; }

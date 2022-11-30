@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_enemyagent",
+  "name": "obj_teleport1",
   "spriteId": {
-    "name": "spr_ninja",
-    "path": "sprites/spr_ninja/spr_ninja.yy",
+    "name": "spr_teleport",
+    "path": "sprites/spr_teleport/spr_teleport.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,11 +25,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_flame","path":"objects/obj_flame/obj_flame.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_turnaround","path":"objects/obj_turnaround/obj_turnaround.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

@@ -28,6 +28,7 @@
     {"id":{"name":"obj_CreditsButton","path":"objects/obj_CreditsButton/obj_CreditsButton.yy",},"order":23,},
     {"id":{"name":"spr_boundary","path":"sprites/spr_boundary/spr_boundary.yy",},"order":22,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":3,},
+    {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},"order":33,},
     {"id":{"name":"obj_PlayButton","path":"objects/obj_PlayButton/obj_PlayButton.yy",},"order":21,},
     {"id":{"name":"spr_sidePlayer","path":"sprites/spr_sidePlayer/spr_sidePlayer.yy",},"order":17,},
     {"id":{"name":"spr_ninja","path":"sprites/spr_ninja/spr_ninja.yy",},"order":23,},

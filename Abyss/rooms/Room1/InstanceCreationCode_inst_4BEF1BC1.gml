@@ -1,3 +1,3 @@
 targetRoom = Room2;
-targetX = 95;
+targetX = 125;
 targetY = 447;

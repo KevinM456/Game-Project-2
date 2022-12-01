@@ -9,7 +9,6 @@
     {"id":{"name":"Sprite13","path":"sprites/Sprite13/Sprite13.yy",},"order":15,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
-    {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},"order":2,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":2,},
     {"id":{"name":"Obj_title","path":"objects/Obj_title/Obj_title.yy",},"order":8,},
     {"id":{"name":"obj_obstacle","path":"objects/obj_obstacle/obj_obstacle.yy",},"order":3,},
@@ -43,7 +42,6 @@
     {"id":{"name":"spr_enemyagent","path":"sprites/spr_enemyagent/spr_enemyagent.yy",},"order":16,},
     {"id":{"name":"spr_gem2","path":"sprites/spr_gem2/spr_gem2.yy",},"order":19,},
     {"id":{"name":"spr_enemycrow","path":"sprites/spr_enemycrow/spr_enemycrow.yy",},"order":0,},
-    {"id":{"name":"endRoom","path":"rooms/endRoom/endRoom.yy",},"order":1,},
     {"id":{"name":"spr_Title","path":"sprites/spr_Title/spr_Title.yy",},"order":10,},
     {"id":{"name":"obj_flame","path":"objects/obj_flame/obj_flame.yy",},"order":7,},
     {"id":{"name":"obj_enemyagent","path":"objects/obj_enemyagent/obj_enemyagent.yy",},"order":14,},
@@ -71,8 +69,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"roomId":{"name":"endRoom","path":"rooms/endRoom/endRoom.yy",},},
-    {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

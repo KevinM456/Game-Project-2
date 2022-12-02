@@ -46,6 +46,7 @@
     {"id":{"name":"obj_flame","path":"objects/obj_flame/obj_flame.yy",},"order":7,},
     {"id":{"name":"obj_enemyagent","path":"objects/obj_enemyagent/obj_enemyagent.yy",},"order":14,},
     {"id":{"name":"spr_flame","path":"sprites/spr_flame/spr_flame.yy",},"order":9,},
+    {"id":{"name":"spr_flameUpdate","path":"sprites/spr_flameUpdate/spr_flameUpdate.yy",},"order":27,},
     {"id":{"name":"spr_tempBackground","path":"sprites/spr_tempBackground/spr_tempBackground.yy",},"order":4,},
     {"id":{"name":"spr_next","path":"sprites/spr_next/spr_next.yy",},"order":21,},
     {"id":{"name":"obj_teleport2","path":"objects/obj_teleport2/obj_teleport2.yy",},"order":19,},
@@ -56,6 +57,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],

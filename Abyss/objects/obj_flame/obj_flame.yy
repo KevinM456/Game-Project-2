@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "obj_flame",
   "spriteId": {
-    "name": "spr_flame",
-    "path": "sprites/spr_flame/spr_flame.yy",
+    "name": "spr_flameUpdate",
+    "path": "sprites/spr_flameUpdate/spr_flameUpdate.yy",
   },
   "solid": false,
   "visible": true,

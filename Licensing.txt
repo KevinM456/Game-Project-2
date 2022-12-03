@@ -1,0 +1,38 @@
+Sprite Artwork:
+
+Music and Sounds:
+snd_chestOpen
+door-open-close by j-tap
+https://pixabay.com/sound-effects/door-open-close-45475/
+
+snd_gameOver
+Game Over.wav by melokacool
+https://freesound.org/people/melokacool/sounds/620792/
+
+snd_gem
+equip.wav by Blackie666
+https://freesound.org/people/Blackie666/sounds/111689/
+
+snd_gravel
+Right Gravel Footstep 5 by Ali_6868
+https://freesound.org/people/Ali_6868/sounds/384880/
+
+snd_heart
+Arcade Bleep Sound by Kodack
+https://freesound.org/people/Kodack/sounds/258020/
+
+snd_killed
+Object Karma Sounds >> Woosh Punch.wav by DigestContent
+https://freesound.org/people/DigestContent/sounds/442755/
+
+snd_teleport
+woosh >> Woosh_Medium_03.wav by moogy73
+https://freesound.org/people/moogy73/sounds/425705/
+
+snd_titleScreen
+Epic Orchestra >> Epic Trailer Background Music by Migfus20
+https://freesound.org/people/Migfus20/sounds/560454/
+
+snd_win
+Cinematic Music Clips >> Fantasy Orchestra.wav by DeVern
+https://freesound.org/people/DeVern/sounds/348275/

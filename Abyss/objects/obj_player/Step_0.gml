@@ -28,3 +28,8 @@ else {
 if vspeed > 12 {
 	vspeed = 12
 }
+
+if lives < 1 {
+	room_goto(3)
+	audio_play_sound(snd_gameOver, 5, false)
+}

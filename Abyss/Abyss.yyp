@@ -79,6 +79,7 @@
     {"id":{"name":"obj_flame","path":"objects/obj_flame/obj_flame.yy",},"order":7,},
     {"id":{"name":"obj_enemyagent","path":"objects/obj_enemyagent/obj_enemyagent.yy",},"order":14,},
     {"id":{"name":"obj_WinningScreen","path":"objects/obj_WinningScreen/obj_WinningScreen.yy",},"order":30,},
+    {"id":{"name":"spr_QuitButton","path":"sprites/spr_QuitButton/spr_QuitButton.yy",},"order":42,},
     {"id":{"name":"spr_flame","path":"sprites/spr_flame/spr_flame.yy",},"order":9,},
     {"id":{"name":"spr_flameUpdate","path":"sprites/spr_flameUpdate/spr_flameUpdate.yy",},"order":27,},
     {"id":{"name":"spr_tempBackground","path":"sprites/spr_tempBackground/spr_tempBackground.yy",},"order":4,},
@@ -89,6 +90,7 @@
     {"id":{"name":"spr_gem1","path":"sprites/spr_gem1/spr_gem1.yy",},"order":12,},
     {"id":{"name":"obj_boundary","path":"objects/obj_boundary/obj_boundary.yy",},"order":16,},
     {"id":{"name":"snd_win","path":"sounds/snd_win/snd_win.yy",},"order":8,},
+    {"id":{"name":"obj_QuitButton","path":"objects/obj_QuitButton/obj_QuitButton.yy",},"order":36,},
     {"id":{"name":"obj_enemycrow","path":"objects/obj_enemycrow/obj_enemycrow.yy",},"order":1,},
     {"id":{"name":"obj_power4","path":"objects/obj_power4/obj_power4.yy",},"order":33,},
     {"id":{"name":"obj_ReturnButton","path":"objects/obj_ReturnButton/obj_ReturnButton.yy",},"order":26,},
@@ -140,6 +142,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.11.0.54",
+    "IDEVersion": "2022.9.1.51",
   },
 }

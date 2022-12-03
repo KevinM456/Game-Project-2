@@ -5,6 +5,10 @@ snd_chestOpen
 door-open-close by j-tap
 https://pixabay.com/sound-effects/door-open-close-45475/
 
+snd_crow
+crow1.wav by _nuel
+https://freesound.org/people/_nuel/sounds/54973/
+
 snd_gameOver
 Game Over.wav by melokacool
 https://freesound.org/people/melokacool/sounds/620792/

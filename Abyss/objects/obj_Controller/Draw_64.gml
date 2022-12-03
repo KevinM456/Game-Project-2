@@ -60,3 +60,9 @@ if room_get_name(room) == "Room2" {
 		draw_text(30, 90, "Gem Count 7/7")
 	}
 }
+
+if room_get_name(room) == "Room2" {
+	if instance_exists(obj_next) {
+		instance_destroy(obj_next)
+	}
+}

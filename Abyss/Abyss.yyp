@@ -41,6 +41,7 @@
     {"id":{"name":"spr_PlayButton","path":"sprites/spr_PlayButton/spr_PlayButton.yy",},"order":29,},
     {"id":{"name":"snd_teleport","path":"sounds/snd_teleport/snd_teleport.yy",},"order":2,},
     {"id":{"name":"spr_GameOverRoom","path":"sprites/spr_GameOverRoom/spr_GameOverRoom.yy",},"order":35,},
+    {"id":{"name":"snd_crow","path":"sounds/snd_crow/snd_crow.yy",},"order":10,},
     {"id":{"name":"spr_CreditRoom","path":"sprites/spr_CreditRoom/spr_CreditRoom.yy",},"order":34,},
     {"id":{"name":"spr_ninja","path":"sprites/spr_ninja/spr_ninja.yy",},"order":23,},
     {"id":{"name":"spr_teleport","path":"sprites/spr_teleport/spr_teleport.yy",},"order":25,},
@@ -142,6 +143,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.11.0.54",
   },
 }

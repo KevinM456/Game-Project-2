@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+audio_play_sound(snd_playerKilled, 5, false)
 lives--
 if room_get_name(room) = "Room1" {
 	obj_player.x = 137

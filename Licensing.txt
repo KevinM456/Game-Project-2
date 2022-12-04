@@ -1,4 +1,5 @@
 Sprite Artwork:
+All sprites and backgrounds made by hand by Nick Battista, Wilman Vasquez, Kevin Mai
 
 Music and Sounds:
 snd_chestOpen
@@ -29,6 +30,10 @@ snd_killed
 Object Karma Sounds >> Woosh Punch.wav by DigestContent
 https://freesound.org/people/DigestContent/sounds/442755/
 
+snd_playerKilled
+Hurt 1 - (Male) by Christopherderp
+https://freesound.org/people/Christopherderp/sounds/342229/
+
 snd_teleport
 woosh >> Woosh_Medium_03.wav by moogy73
 https://freesound.org/people/moogy73/sounds/425705/
@@ -36,6 +41,10 @@ https://freesound.org/people/moogy73/sounds/425705/
 snd_titleScreen
 Epic Orchestra >> Epic Trailer Background Music by Migfus20
 https://freesound.org/people/Migfus20/sounds/560454/
+
+snd_wand
+Another magic wand - spell tinkle - trimmed by kneekoo
+https://freesound.org/people/kneekoo/sounds/548497/
 
 snd_win
 Cinematic Music Clips >> Fantasy Orchestra.wav by DeVern

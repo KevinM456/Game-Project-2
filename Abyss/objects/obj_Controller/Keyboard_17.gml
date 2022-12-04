@@ -7,9 +7,14 @@ if keyboard_check_pressed(ord("L")){
 
 }
 
-if keyboard_check_pressed(ord("N")){
+if keyboard_check_pressed(ord("G")){
 
-	room_goto_next();
+	if room_get_name(room) == "Room1" {
+		global.gemCount = 5
+	}
+	else if room_get_name(room) = "Room2" {
+		global.gemCount = 7
+	}
 
 }
 
@@ -20,3 +25,11 @@ if keyboard_check_pressed(ord("Q")){
 }
 
 
+if keyboard_check_pressed(ord("K")) {
+	instance_destroy(obj_enemyagent)
+	instance_destroy(obj_enemycrow)
+}
+
+if keyboard_check_pressed(ord("C")) {
+	room_goto(1)
+}

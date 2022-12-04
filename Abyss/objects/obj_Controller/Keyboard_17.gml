@@ -29,7 +29,3 @@ if keyboard_check_pressed(ord("K")) {
 	instance_destroy(obj_enemyagent)
 	instance_destroy(obj_enemycrow)
 }
-
-if keyboard_check_pressed(ord("C")) {
-	room_goto(1)
-}
